@@ -1,27 +1,23 @@
 # [Sales analysis](https://openclassrooms.com/fr/paths/65/projects/146/assignment)
 
-### Contents:
-1) [Notebook](https://github.com/Aciago/Sales_analysis#link-to-the-notebook)
-2) [Learning goals](https://github.com/Aciago/Sales_analysis#learning-goals)
-3) [Scenario](https://github.com/Aciago/Sales_analysis#scenario)
-4) [Dataset](https://github.com/Aciago/Sales_analysis#dataset)
-5) [Results and conclusions](https://github.com/Aciago/Sales_analysis#results-and-conclusions)
+### [Notebook](https://github.com/Aciago/Sales_analysis/blob/main/P4_v6.ipynb)
 
-#### [Notebook](https://github.com/Aciago/Sales_analysis/blob/main/P4_v6.ipynb)
-
-#### Learning goals:
+### Learning goals:
 - cleaning up existing dataset
 - using descriptive statistics
 - mastering core statistical concepts
 
-#### Scenario:
+### Scenario:
 As a data analyst for a large bookstore chain, we got access to the sales database. Our task is to explore the data, understand it and make a presentation based on our findings.
 
-#### Dataset:
+### Dataset:
 Our dataset came in form of [CSV file provided by OpenClassrooms](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/dataset_P4.zip).
 
-#### Results and conclusions:
-Python script or a notebook used for the project
-Data Visualizations
-[Presentation](https://github.com/Aciago/Sales_analysis/blob/main/OpenClassrooms_P4_slides.pdf)
+### Results and conclusions:
+[Full presentation](https://github.com/Aciago/Sales_analysis/blob/main/OpenClassrooms_P4_slides.pdf)
 
+![Distribution of clients by category of purchased items](https://github.com/Aciago/Sales_analysis/blob/main/age_vs_prod_category1.jpg)
+
+![Overall sales history](https://github.com/Aciago/Sales_analysis/blob/main/sales_history.jpg)
+
+![October anomaly exploration](https://github.com/Aciago/Sales_analysis/blob/main/october_anomaly_per_category.jpg)
